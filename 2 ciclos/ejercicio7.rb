@@ -15,7 +15,7 @@
 
 a = 10
 a.times do |i|
-  puts i
+  puts i += 1
   if i.even?
     puts 'par'
   end

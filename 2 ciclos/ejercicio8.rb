@@ -5,4 +5,4 @@ a = ['1impar 2par 3impar 4par 5impar 6par 7impar 8par 9impar 10par']
 
 puts a
 
-#No enitnedo
+#No entiendo cómo quieren hacerlo

@@ -5,9 +5,18 @@
 
 print "Ingresa un numero"
 num = gets.chomp.to_i
+
 unless num == 0 for i in (1..12)
      mul = i * num
      puts "#{num} * #{i} = #{mul}"
 end
 
 #no lo terminé. No entiendo cómo hacer que salga del programa.
+
+
+num = gets.chomp
+num = num.to_i
+for i in (1..12)
+     mul = i * num
+     puts "#{num}*#{i} = #{mul}"
+end

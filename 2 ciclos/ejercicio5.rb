@@ -9,5 +9,4 @@ end
 
 puts suma
 
-#No entiendo, pero el resultado da 55 Ja!
 #Listo

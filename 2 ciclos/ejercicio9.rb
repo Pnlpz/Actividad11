@@ -41,4 +41,4 @@ puts e
 g ='</table>'
 puts g
 
-#Listo (no entiendo, pero ahí está)
+#Listo (?)
